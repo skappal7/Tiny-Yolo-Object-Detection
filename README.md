@@ -1,2 +1,2 @@
 # Object-Detection
-This section will house my various object detection project codes which are easy and simple to  understand. I will be using languages like R, Python to perform these routines
+Object detection project codes which are easy and simple to understand and implement. i will try to keep this section as updated as I can and will continue to build upon the existing codes and libraries
